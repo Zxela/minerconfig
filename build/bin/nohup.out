@@ -1,0 +1,929 @@
+[2018-09-12 13:12:57] : MEMORY ALLOC FAILED: mmap failed
+[2018-09-12 13:12:57] : MEMORY ALLOC FAILED: mmap failed
+[2018-09-12 13:12:57] : MEMORY ALLOC FAILED: mmap failed
+[2018-09-12 13:12:57] : MEMORY ALLOC FAILED: mmap failed
+[2018-09-12 13:12:57] : MEMORY ALLOC FAILED: mmap failed
+HTTP Daemon failed to start.[2018-09-12 13:16:39] : MEMORY ALLOC FAILED: mmap failed
+[2018-09-12 13:16:39] : MEMORY ALLOC FAILED: mmap failed
+[2018-09-12 13:16:39] : MEMORY ALLOC FAILED: mmap failed
+[2018-09-12 13:16:39] : MEMORY ALLOC FAILED: mmap failed
+[2018-09-12 13:16:39] : MEMORY ALLOC FAILED: mmap failed
+-------------------------------------------------------------------
+xmr-stak 2.4.7 2ce3747
+
+Brought to you by fireice_uk and psychocrypt under GPLv3.
+Based on CPU mining code by wolf9466 (heavily optimized by fireice_uk).
+
+Configurable dev donation level is set to 0.0%
+
+You can use following keys to display reports:
+'h' - hashrate
+'r' - results
+'c' - connection
+-------------------------------------------------------------------
+[2018-09-12 13:16:39] : Mining coin: aeon7
+[2018-09-12 13:16:39] : Starting 2x thread, affinity: 0.
+[2018-09-12 13:16:39] : hwloc: memory pinned
+[2018-09-12 13:16:39] : Starting 2x thread, affinity: 1.
+[2018-09-12 13:16:39] : MEMORY ALLOC FAILED: mmap failed
+[2018-09-12 13:16:39] : MEMORY ALLOC FAILED: mmap failed
+[2018-09-12 13:16:39] : hwloc: memory pinned
+[2018-09-12 13:16:39] : Starting 1x thread, affinity: 2.
+[2018-09-12 13:16:39] : MEMORY ALLOC FAILED: mmap failed
+[2018-09-12 13:16:39] : MEMORY ALLOC FAILED: mmap failed
+[2018-09-12 13:16:39] : hwloc: memory pinned
+[2018-09-12 13:16:39] : Starting 1x thread, affinity: 3.
+[2018-09-12 13:16:39] : MEMORY ALLOC FAILED: mmap failed
+[2018-09-12 13:16:39] : hwloc: memory pinned
+[2018-09-12 13:16:39] : Starting 1x thread, affinity: 4.
+[2018-09-12 13:16:39] : MEMORY ALLOC FAILED: mmap failed
+[2018-09-12 13:16:39] : hwloc: memory pinned
+[2018-09-12 13:16:39] : Starting 1x thread, affinity: 5.
+[2018-09-12 13:16:39] : MEMORY ALLOC FAILED: mmap failed
+[2018-09-12 13:16:39] : hwloc: memory pinned
+[2018-09-12 13:16:39] : Starting 1x thread, affinity: 6.
+[2018-09-12 13:16:39] : MEMORY ALLOC FAILED: mmap failed
+[2018-09-12 13:16:39] : hwloc: memory pinned
+[2018-09-12 13:16:39] : Starting 1x thread, affinity: 7.
+[2018-09-12 13:16:39] : MEMORY ALLOC FAILED: mmap failed
+[2018-09-12 13:16:39] : hwloc: memory pinned
+[2018-09-12 13:16:39] : Starting 2x thread, affinity: 8.
+[2018-09-12 13:16:39] : MEMORY ALLOC FAILED: mmap failed
+[2018-09-12 13:16:39] : hwloc: can't bind memory
+[2018-09-12 13:16:39] : Starting 2x thread, affinity: 9.
+[2018-09-12 13:16:39] : MEMORY ALLOC FAILED: mmap failed
+[2018-09-12 13:16:39] : MEMORY ALLOC FAILED: mmap failed
+[2018-09-12 13:16:39] : hwloc: can't bind memory
+[2018-09-12 13:16:39] : Starting 1x thread, affinity: 10.
+[2018-09-12 13:16:39] : MEMORY ALLOC FAILED: mmap failed
+[2018-09-12 13:16:39] : MEMORY ALLOC FAILED: mmap failed
+[2018-09-12 13:16:39] : hwloc: can't bind memory
+[2018-09-12 13:16:39] : Starting 1x thread, affinity: 11.
+[2018-09-12 13:16:39] : MEMORY ALLOC FAILED: mmap failed
+[2018-09-12 13:16:39] : hwloc: can't bind memory
+[2018-09-12 13:16:39] : Starting 1x thread, affinity: 12.
+[2018-09-12 13:16:39] : MEMORY ALLOC FAILED: mmap failed
+[2018-09-12 13:16:39] : hwloc: can't bind memory
+[2018-09-12 13:16:39] : Starting 1x thread, affinity: 13.
+[2018-09-12 13:16:39] : MEMORY ALLOC FAILED: mmap failed
+[2018-09-12 13:16:40] : hwloc: can't bind memory
+[2018-09-12 13:16:40] : Starting 1x thread, affinity: 14.
+[2018-09-12 13:16:40] : MEMORY ALLOC FAILED: mmap failed
+[2018-09-12 13:16:40] : hwloc: can't bind memory
+[2018-09-12 13:16:40] : Starting 1x thread, affinity: 15.
+[2018-09-12 13:16:40] : MEMORY ALLOC FAILED: mmap failed
+[2018-09-12 13:16:40] : hwloc: can't bind memory
+[2018-09-12 13:16:40] : Starting 2x thread, affinity: 16.
+[2018-09-12 13:16:40] : MEMORY ALLOC FAILED: mmap failed
+[2018-09-12 13:16:40] : hwloc: memory pinned
+[2018-09-12 13:16:40] : Starting 2x thread, affinity: 17.
+[2018-09-12 13:16:40] : MEMORY ALLOC FAILED: mmap failed
+[2018-09-12 13:16:40] : MEMORY ALLOC FAILED: mmap failed
+[2018-09-12 13:16:40] : hwloc: memory pinned
+[2018-09-12 13:16:40] : Starting 1x thread, affinity: 18.
+[2018-09-12 13:16:40] : MEMORY ALLOC FAILED: mmap failed
+[2018-09-12 13:16:40] : MEMORY ALLOC FAILED: mmap failed
+[2018-09-12 13:16:40] : hwloc: memory pinned
+[2018-09-12 13:16:40] : Starting 1x thread, affinity: 19.
+[2018-09-12 13:16:40] : MEMORY ALLOC FAILED: mmap failed
+[2018-09-12 13:16:40] : hwloc: memory pinned
+[2018-09-12 13:16:40] : Starting 1x thread, affinity: 20.
+[2018-09-12 13:16:40] : MEMORY ALLOC FAILED: mmap failed
+[2018-09-12 13:16:40] : hwloc: memory pinned
+[2018-09-12 13:16:40] : Starting 1x thread, affinity: 21.
+[2018-09-12 13:16:40] : MEMORY ALLOC FAILED: mmap failed
+[2018-09-12 13:16:40] : hwloc: memory pinned
+[2018-09-12 13:16:40] : Starting 1x thread, affinity: 22.
+[2018-09-12 13:16:40] : MEMORY ALLOC FAILED: mmap failed
+[2018-09-12 13:16:40] : hwloc: memory pinned
+[2018-09-12 13:16:40] : Starting 1x thread, affinity: 23.
+[2018-09-12 13:16:40] : MEMORY ALLOC FAILED: mmap failed
+[2018-09-12 13:16:40] : hwloc: memory pinned
+[2018-09-12 13:16:40] : Starting 2x thread, affinity: 24.
+[2018-09-12 13:16:40] : MEMORY ALLOC FAILED: mmap failed
+[2018-09-12 13:16:40] : hwloc: can't bind memory
+[2018-09-12 13:16:40] : Starting 2x thread, affinity: 25.
+[2018-09-12 13:16:40] : MEMORY ALLOC FAILED: mmap failed
+[2018-09-12 13:16:40] : MEMORY ALLOC FAILED: mmap failed
+[2018-09-12 13:16:40] : hwloc: can't bind memory
+[2018-09-12 13:16:40] : Starting 1x thread, affinity: 26.
+[2018-09-12 13:16:40] : MEMORY ALLOC FAILED: mmap failed
+[2018-09-12 13:16:40] : MEMORY ALLOC FAILED: mmap failed
+[2018-09-12 13:16:40] : hwloc: can't bind memory
+[2018-09-12 13:16:40] : Starting 1x thread, affinity: 27.
+[2018-09-12 13:16:40] : MEMORY ALLOC FAILED: mmap failed
+[2018-09-12 13:16:40] : hwloc: can't bind memory
+[2018-09-12 13:16:40] : Starting 1x thread, affinity: 28.
+[2018-09-12 13:16:40] : MEMORY ALLOC FAILED: mmap failed
+[2018-09-12 13:16:40] : hwloc: can't bind memory
+[2018-09-12 13:16:40] : Starting 1x thread, affinity: 29.
+[2018-09-12 13:16:40] : MEMORY ALLOC FAILED: mmap failed
+[2018-09-12 13:16:40] : hwloc: can't bind memory
+[2018-09-12 13:16:40] : Starting 1x thread, affinity: 30.
+[2018-09-12 13:16:40] : MEMORY ALLOC FAILED: mmap failed
+[2018-09-12 13:16:40] : hwloc: can't bind memory
+[2018-09-12 13:16:40] : Starting 1x thread, affinity: 31.
+[2018-09-12 13:16:40] : MEMORY ALLOC FAILED: mmap failed
+[2018-09-12 13:16:40] : hwloc: can't bind memory
+[2018-09-12 13:16:40] : MEMORY ALLOC FAILED: mmap failed
+[2018-09-12 13:16:40] : Fast-connecting to pool.aeon.hashvault.pro:5555 pool ...
+[2018-09-12 13:16:41] : Pool pool.aeon.hashvault.pro:5555 connected. Logging in...
+[2018-09-12 13:16:43] : Difficulty changed. Now: 50000.
+[2018-09-12 13:16:43] : Pool logged in.
+[2018-09-12 13:16:59] : Result accepted by the pool.
+[2018-09-12 13:17:05] : Result accepted by the pool.
+[2018-09-12 13:17:12] : New block detected.
+[2018-09-12 13:17:18] : Result accepted by the pool.
+[2018-09-12 13:17:32] : Difficulty changed. Now: 90001.
+[2018-09-12 13:17:32] : New block detected.
+[2018-09-12 13:18:00] : New block detected.
+-------------------------------------------------------------------
+xmr-stak 2.4.7 2ce3747
+
+Brought to you by fireice_uk and psychocrypt under GPLv3.
+Based on CPU mining code by wolf9466 (heavily optimized by fireice_uk).
+
+Configurable dev donation level is set to 0.0%
+
+You can use following keys to display reports:
+'h' - hashrate
+'r' - results
+'c' - connection
+-------------------------------------------------------------------
+[2018-09-12 15:07:39] : Mining coin: aeon7
+[2018-09-12 15:07:39] : Starting 1x thread, no affinity.
+[2018-09-12 15:07:39] : Starting 1x thread, no affinity.
+[2018-09-12 15:07:39] : Starting 1x thread, no affinity.
+[2018-09-12 15:07:39] : Starting 1x thread, no affinity.
+[2018-09-12 15:07:39] : Starting 1x thread, no affinity.
+[2018-09-12 15:07:39] : Starting 1x thread, no affinity.
+[2018-09-12 15:07:39] : Starting 1x thread, no affinity.
+[2018-09-12 15:07:39] : Starting 1x thread, no affinity.
+[2018-09-12 15:07:39] : Starting 1x thread, no affinity.
+[2018-09-12 15:07:39] : Starting 1x thread, no affinity.
+[2018-09-12 15:07:39] : Starting 1x thread, no affinity.
+[2018-09-12 15:07:39] : Starting 1x thread, no affinity.
+[2018-09-12 15:07:39] : Starting 1x thread, no affinity.
+[2018-09-12 15:07:39] : Starting 1x thread, no affinity.
+[2018-09-12 15:07:39] : Starting 1x thread, no affinity.
+[2018-09-12 15:07:39] : Starting 1x thread, no affinity.
+[2018-09-12 15:07:39] : Starting 1x thread, no affinity.
+[2018-09-12 15:07:39] : Starting 1x thread, no affinity.
+[2018-09-12 15:07:39] : Starting 1x thread, no affinity.
+[2018-09-12 15:07:39] : Starting 1x thread, no affinity.
+[2018-09-12 15:07:39] : Starting 1x thread, no affinity.
+[2018-09-12 15:07:39] : Starting 1x thread, no affinity.
+[2018-09-12 15:07:39] : Starting 1x thread, no affinity.
+[2018-09-12 15:07:39] : Starting 1x thread, no affinity.
+[2018-09-12 15:07:39] : Starting 1x thread, no affinity.
+[2018-09-12 15:07:39] : Fast-connecting to pool.aeon.hashvault.pro:5555 pool ...
+[2018-09-12 15:07:39] : Pool pool.aeon.hashvault.pro:5555 connected. Logging in...
+[2018-09-12 15:07:41] : Difficulty changed. Now: 50000.
+[2018-09-12 15:07:41] : Pool logged in.
+[2018-09-12 15:07:55] : Result accepted by the pool.
+[2018-09-12 15:07:55] : Result accepted by the pool.
+[2018-09-12 15:07:56] : Difficulty changed. Now: 187504.
+[2018-09-12 15:07:56] : New block detected.
+[2018-09-12 15:08:08] : New block detected.
+[2018-09-12 15:08:30] : Result accepted by the pool.
+[2018-09-12 15:08:56] : Difficulty changed. Now: 113461.
+[2018-09-12 15:08:56] : New block detected.
+-------------------------------------------------------------------
+xmr-stak 2.4.7 2ce3747
+
+Brought to you by fireice_uk and psychocrypt under GPLv3.
+Based on CPU mining code by wolf9466 (heavily optimized by fireice_uk).
+
+Configurable dev donation level is set to 0.0%
+
+You can use following keys to display reports:
+'h' - hashrate
+'r' - results
+'c' - connection
+-------------------------------------------------------------------
+[2018-09-12 15:09:39] : Mining coin: aeon7
+[2018-09-12 15:09:39] : Starting 1x thread, no affinity.
+[2018-09-12 15:09:39] : Starting 1x thread, no affinity.
+[2018-09-12 15:09:39] : Starting 1x thread, no affinity.
+[2018-09-12 15:09:39] : Starting 1x thread, no affinity.
+[2018-09-12 15:09:39] : Starting 1x thread, no affinity.
+[2018-09-12 15:09:39] : Starting 1x thread, no affinity.
+[2018-09-12 15:09:39] : Starting 1x thread, no affinity.
+[2018-09-12 15:09:39] : Starting 1x thread, no affinity.
+[2018-09-12 15:09:39] : Starting 1x thread, no affinity.
+[2018-09-12 15:09:39] : Starting 1x thread, no affinity.
+[2018-09-12 15:09:39] : Starting 1x thread, no affinity.
+[2018-09-12 15:09:39] : Starting 1x thread, no affinity.
+[2018-09-12 15:09:39] : Starting 1x thread, no affinity.
+[2018-09-12 15:09:39] : Starting 1x thread, no affinity.
+[2018-09-12 15:09:39] : Starting 1x thread, no affinity.
+[2018-09-12 15:09:39] : Starting 1x thread, no affinity.
+[2018-09-12 15:09:39] : Starting 1x thread, no affinity.
+[2018-09-12 15:09:39] : Starting 1x thread, no affinity.
+[2018-09-12 15:09:39] : Starting 1x thread, no affinity.
+[2018-09-12 15:09:39] : Starting 1x thread, no affinity.
+[2018-09-12 15:09:39] : Starting 1x thread, no affinity.
+[2018-09-12 15:09:39] : Starting 1x thread, no affinity.
+[2018-09-12 15:09:39] : Starting 1x thread, no affinity.
+[2018-09-12 15:09:39] : Starting 1x thread, no affinity.
+[2018-09-12 15:09:39] : Starting 1x thread, no affinity.
+[2018-09-12 15:09:39] : Fast-connecting to pool.aeon.hashvault.pro:5555 pool ...
+[2018-09-12 15:09:39] : Pool pool.aeon.hashvault.pro:5555 connected. Logging in...
+[2018-09-12 15:09:39] : Difficulty changed. Now: 50000.
+[2018-09-12 15:09:39] : Pool logged in.
+[2018-09-12 15:09:44] : Difficulty changed. Now: 83334.
+[2018-09-12 15:09:44] : New block detected.
+[2018-09-12 15:09:51] : Result accepted by the pool.
+[2018-09-12 15:09:58] : Result accepted by the pool.
+[2018-09-12 15:10:39] : Result accepted by the pool.
+HASHRATE REPORT - CPU
+| ID |    10s |    60s |    15m | ID |    10s |    60s |    15m |
+|  0 |  104.0 |   (na) |   (na) |  1 |  104.0 |   (na) |   (na) |
+|  2 |  106.2 |   (na) |   (na) |  3 |  103.2 |   (na) |   (na) |
+|  4 |  105.9 |   (na) |   (na) |  5 |  105.5 |   (na) |   (na) |
+|  6 |  101.6 |   (na) |   (na) |  7 |  103.4 |   (na) |   (na) |
+|  8 |  100.8 |   (na) |   (na) |  9 |  102.4 |   (na) |   (na) |
+| 10 |  103.8 |   (na) |   (na) | 11 |  105.5 |   (na) |   (na) |
+| 12 |  105.9 |   (na) |   (na) | 13 |  102.1 |   (na) |   (na) |
+| 14 |  104.3 |   (na) |   (na) | 15 |  105.4 |   (na) |   (na) |
+| 16 |  105.9 |   (na) |   (na) | 17 |  105.4 |   (na) |   (na) |
+| 18 |  105.2 |   (na) |   (na) | 19 |  103.6 |   (na) |   (na) |
+| 20 |  102.4 |   (na) |   (na) | 21 |  104.3 |   (na) |   (na) |
+| 22 |  107.1 |   (na) |   (na) | 23 |  103.8 |   (na) |   (na) |
+| 24 |  104.5 |   (na) |   (na) |
+Totals (CPU):  2606.1    0.0    0.0 H/s
+-----------------------------------------------------------------
+Totals (ALL):   2606.1    0.0    0.0 H/s
+Highest:  2611.5 H/s
+-----------------------------------------------------------------
+[2018-09-12 15:10:44] : Difficulty changed. Now: 115381.
+[2018-09-12 15:10:44] : New block detected.
+[2018-09-12 15:10:48] : Result accepted by the pool.
+[2018-09-12 15:11:19] : Result accepted by the pool.
+[2018-09-12 15:11:27] : Result accepted by the pool.
+HASHRATE REPORT - CPU
+| ID |    10s |    60s |    15m | ID |    10s |    60s |    15m |
+|  0 |  109.8 |  106.0 |   (na) |  1 |  108.5 |  105.4 |   (na) |
+|  2 |  102.4 |  103.4 |   (na) |  3 |  101.6 |  105.0 |   (na) |
+|  4 |  104.5 |  105.7 |   (na) |  5 |   99.7 |  103.2 |   (na) |
+|  6 |  100.9 |  103.5 |   (na) |  7 |  103.9 |  104.1 |   (na) |
+|  8 |  101.7 |  104.9 |   (na) |  9 |  106.2 |  105.4 |   (na) |
+| 10 |  100.9 |  103.1 |   (na) | 11 |  104.0 |  103.4 |   (na) |
+| 12 |  101.0 |  105.7 |   (na) | 13 |  108.2 |  102.7 |   (na) |
+| 14 |  105.1 |  105.5 |   (na) | 15 |  101.3 |  102.4 |   (na) |
+| 16 |  107.0 |  104.5 |   (na) | 17 |  104.0 |  105.4 |   (na) |
+| 18 |  105.2 |  105.0 |   (na) | 19 |  101.7 |  102.8 |   (na) |
+| 20 |  103.8 |  104.2 |   (na) | 21 |  105.5 |  104.9 |   (na) |
+| 22 |  105.4 |  103.6 |   (na) | 23 |  104.8 |  103.4 |   (na) |
+| 24 |  108.9 |  103.9 |   (na) |
+Totals (CPU):  2606.0 2607.0    0.0 H/s
+-----------------------------------------------------------------
+Totals (ALL):   2606.0 2607.0    0.0 H/s
+Highest:  2611.5 H/s
+-----------------------------------------------------------------
+[2018-09-12 15:11:44] : Difficulty changed. Now: 143070.
+[2018-09-12 15:11:44] : New block detected.
+[2018-09-12 15:11:56] : Result accepted by the pool.
+[2018-09-12 15:12:09] : Result accepted by the pool.
+HASHRATE REPORT - CPU
+| ID |    10s |    60s |    15m | ID |    10s |    60s |    15m |
+|  0 |  105.2 |  105.7 |   (na) |  1 |  110.9 |  106.6 |   (na) |
+|  2 |  102.3 |  101.8 |   (na) |  3 |  104.4 |  103.3 |   (na) |
+|  4 |  104.0 |  105.8 |   (na) |  5 |  103.0 |  102.0 |   (na) |
+|  6 |  107.1 |  102.3 |   (na) |  7 |  100.0 |  100.5 |   (na) |
+|  8 |  106.5 |  102.9 |   (na) |  9 |  107.8 |  106.5 |   (na) |
+| 10 |  105.0 |  102.0 |   (na) | 11 |  103.0 |  104.2 |   (na) |
+| 12 |  106.9 |  105.4 |   (na) | 13 |  101.4 |  105.7 |   (na) |
+| 14 |  103.4 |  106.1 |   (na) | 15 |  106.3 |  107.0 |   (na) |
+| 16 |  105.1 |  106.1 |   (na) | 17 |  100.3 |  103.4 |   (na) |
+| 18 |  104.5 |  106.0 |   (na) | 19 |  103.4 |  102.8 |   (na) |
+| 20 |  102.6 |  104.4 |   (na) | 21 |  102.4 |  104.6 |   (na) |
+| 22 |  105.4 |  105.4 |   (na) | 23 |  103.3 |  104.4 |   (na) |
+| 24 |   99.8 |  103.7 |   (na) |
+Totals (CPU):  2604.2 2608.5    0.0 H/s
+-----------------------------------------------------------------
+Totals (ALL):   2604.2 2608.5    0.0 H/s
+Highest:  2613.2 H/s
+-----------------------------------------------------------------
+[2018-09-12 15:12:49] : Result accepted by the pool.
+-------------------------------------------------------------------
+xmr-stak 2.4.7 2ce3747
+
+Brought to you by fireice_uk and psychocrypt under GPLv3.
+Based on CPU mining code by wolf9466 (heavily optimized by fireice_uk).
+
+Configurable dev donation level is set to 0.0%
+
+You can use following keys to display reports:
+'h' - hashrate
+'r' - results
+'c' - connection
+-------------------------------------------------------------------
+[2018-09-12 15:18:40] : Mining coin: aeon7
+[2018-09-12 15:18:40] : Starting 1x thread, no affinity.
+[2018-09-12 15:18:40] : Starting 1x thread, no affinity.
+[2018-09-12 15:18:40] : Starting 1x thread, no affinity.
+[2018-09-12 15:18:40] : Starting 1x thread, no affinity.
+[2018-09-12 15:18:40] : Starting 1x thread, no affinity.
+[2018-09-12 15:18:40] : Starting 1x thread, no affinity.
+[2018-09-12 15:18:40] : Starting 1x thread, no affinity.
+[2018-09-12 15:18:40] : Starting 1x thread, no affinity.
+[2018-09-12 15:18:40] : Starting 1x thread, no affinity.
+[2018-09-12 15:18:40] : Starting 1x thread, no affinity.
+[2018-09-12 15:18:40] : Starting 1x thread, no affinity.
+[2018-09-12 15:18:40] : Starting 1x thread, no affinity.
+[2018-09-12 15:18:40] : Starting 1x thread, no affinity.
+[2018-09-12 15:18:40] : Starting 1x thread, no affinity.
+[2018-09-12 15:18:40] : Starting 1x thread, no affinity.
+[2018-09-12 15:18:40] : Starting 1x thread, no affinity.
+[2018-09-12 15:18:40] : Starting 1x thread, no affinity.
+[2018-09-12 15:18:40] : Starting 1x thread, no affinity.
+[2018-09-12 15:18:40] : Starting 1x thread, no affinity.
+[2018-09-12 15:18:40] : Starting 1x thread, no affinity.
+[2018-09-12 15:18:40] : Starting 1x thread, no affinity.
+[2018-09-12 15:18:40] : Starting 1x thread, no affinity.
+[2018-09-12 15:18:40] : Starting 1x thread, no affinity.
+[2018-09-12 15:18:40] : Starting 1x thread, no affinity.
+[2018-09-12 15:18:40] : Starting 1x thread, no affinity.
+[2018-09-12 15:18:40] : Starting 1x thread, no affinity.
+[2018-09-12 15:18:40] : Starting 1x thread, no affinity.
+[2018-09-12 15:18:40] : Starting 1x thread, no affinity.
+[2018-09-12 15:18:40] : Fast-connecting to pool.aeon.hashvault.pro:5555 pool ...
+[2018-09-12 15:18:41] : Pool pool.aeon.hashvault.pro:5555 connected. Logging in...
+[2018-09-12 15:18:42] : Difficulty changed. Now: 50000.
+[2018-09-12 15:18:42] : Pool logged in.
+[2018-09-12 15:18:48] : New block detected.
+[2018-09-12 15:18:49] : Result accepted by the pool.
+[2018-09-12 15:19:32] : Result accepted by the pool.
+[2018-09-12 15:19:33] : Result accepted by the pool.
+[2018-09-12 15:19:35] : Difficulty changed. Now: 84900.
+[2018-09-12 15:19:35] : New block detected.
+HASHRATE REPORT - CPU
+| ID |    10s |    60s |    15m | ID |    10s |    60s |    15m |
+|  0 |  100.7 |   (na) |   (na) |  1 |  100.8 |   (na) |   (na) |
+|  2 |  103.0 |   (na) |   (na) |  3 |  101.0 |   (na) |   (na) |
+|  4 |  102.5 |   (na) |   (na) |  5 |  100.7 |   (na) |   (na) |
+|  6 |   98.8 |   (na) |   (na) |  7 |  101.7 |   (na) |   (na) |
+|  8 |  102.5 |   (na) |   (na) |  9 |  101.3 |   (na) |   (na) |
+| 10 |  101.9 |   (na) |   (na) | 11 |  101.2 |   (na) |   (na) |
+| 12 |  104.7 |   (na) |   (na) | 13 |  105.1 |   (na) |   (na) |
+| 14 |  101.5 |   (na) |   (na) | 15 |  103.3 |   (na) |   (na) |
+| 16 |  101.8 |   (na) |   (na) | 17 |   99.7 |   (na) |   (na) |
+| 18 |  101.0 |   (na) |   (na) | 19 |   99.9 |   (na) |   (na) |
+| 20 |  103.1 |   (na) |   (na) | 21 |  101.5 |   (na) |   (na) |
+| 22 |  103.1 |   (na) |   (na) | 23 |  101.8 |   (na) |   (na) |
+| 24 |  101.8 |   (na) |   (na) | 25 |  101.8 |   (na) |   (na) |
+| 26 |  101.0 |   (na) |   (na) | 27 |  101.6 |   (na) |   (na) |
+Totals (CPU):  2848.6    0.0    0.0 H/s
+-----------------------------------------------------------------
+Totals (ALL):   2848.6    0.0    0.0 H/s
+Highest:  2858.5 H/s
+-----------------------------------------------------------------
+[2018-09-12 15:19:53] : Result accepted by the pool.
+[2018-09-12 15:20:03] : Result accepted by the pool.
+[2018-09-12 15:20:21] : Result accepted by the pool.
+[2018-09-12 15:20:33] : Result accepted by the pool.
+[2018-09-12 15:20:35] : Difficulty changed. Now: 129961.
+[2018-09-12 15:20:35] : New block detected.
+HASHRATE REPORT - CPU
+| ID |    10s |    60s |    15m | ID |    10s |    60s |    15m |
+|  0 |  101.2 |  101.9 |   (na) |  1 |  100.3 |  101.5 |   (na) |
+|  2 |  100.3 |  102.5 |   (na) |  3 |   99.4 |  100.6 |   (na) |
+|  4 |  101.1 |  101.9 |   (na) |  5 |  101.3 |  101.6 |   (na) |
+|  6 |  100.6 |  101.9 |   (na) |  7 |  101.7 |  101.3 |   (na) |
+|  8 |  101.3 |  102.7 |   (na) |  9 |  104.6 |  102.5 |   (na) |
+| 10 |  100.4 |  101.0 |   (na) | 11 |  102.5 |  102.7 |   (na) |
+| 12 |  102.1 |  102.0 |   (na) | 13 |  101.8 |  101.4 |   (na) |
+| 14 |  103.0 |  101.4 |   (na) | 15 |  101.1 |  101.6 |   (na) |
+| 16 |  100.3 |  101.7 |   (na) | 17 |   99.9 |   99.5 |   (na) |
+| 18 |  102.6 |  102.0 |   (na) | 19 |  101.0 |  100.8 |   (na) |
+| 20 |  101.8 |  102.2 |   (na) | 21 |  101.4 |  102.1 |   (na) |
+| 22 |  100.2 |  101.6 |   (na) | 23 |  104.0 |  102.4 |   (na) |
+| 24 |  102.7 |  102.9 |   (na) | 25 |  101.1 |  102.6 |   (na) |
+| 26 |  101.6 |  101.5 |   (na) | 27 |  102.1 |  102.8 |   (na) |
+Totals (CPU):  2841.4 2850.5    0.0 H/s
+-----------------------------------------------------------------
+Totals (ALL):   2841.4 2850.5    0.0 H/s
+Highest:  2858.5 H/s
+-----------------------------------------------------------------
+[2018-09-12 15:20:45] : Result accepted by the pool.
+[2018-09-12 15:20:51] : Result accepted by the pool.
+[2018-09-12 15:21:03] : Result accepted by the pool.
+[2018-09-12 15:21:09] : Result accepted by the pool.
+[2018-09-12 15:21:13] : Result accepted by the pool.
+[2018-09-12 15:21:35] : New block detected.
+[2018-09-12 15:21:35] : Difficulty changed. Now: 197587.
+[2018-09-12 15:21:35] : New block detected.
+HASHRATE REPORT - CPU
+| ID |    10s |    60s |    15m | ID |    10s |    60s |    15m |
+|  0 |   99.6 |  101.8 |   (na) |  1 |  102.8 |  102.2 |   (na) |
+|  2 |  100.7 |  101.0 |   (na) |  3 |   99.3 |  100.9 |   (na) |
+|  4 |  102.9 |  102.9 |   (na) |  5 |  100.6 |  100.5 |   (na) |
+|  6 |  105.1 |  102.8 |   (na) |  7 |  100.7 |   99.9 |   (na) |
+|  8 |  100.7 |  100.9 |   (na) |  9 |  100.7 |  101.9 |   (na) |
+| 10 |  103.5 |  101.4 |   (na) | 11 |  102.5 |  101.7 |   (na) |
+| 12 |  103.2 |  102.0 |   (na) | 13 |  102.0 |  101.9 |   (na) |
+| 14 |  101.0 |  100.9 |   (na) | 15 |  100.8 |  101.3 |   (na) |
+| 16 |  104.4 |  101.2 |   (na) | 17 |  101.1 |  101.4 |   (na) |
+| 18 |  101.1 |  101.4 |   (na) | 19 |  101.4 |  101.4 |   (na) |
+| 20 |   99.1 |  101.1 |   (na) | 21 |  101.9 |  100.8 |   (na) |
+| 22 |  100.9 |  101.6 |   (na) | 23 |  101.9 |  101.5 |   (na) |
+| 24 |  102.4 |  101.4 |   (na) | 25 |  102.4 |  101.2 |   (na) |
+| 26 |  101.1 |  101.5 |   (na) | 27 |  102.4 |  101.3 |   (na) |
+Totals (CPU):  2846.0 2839.9    0.0 H/s
+-----------------------------------------------------------------
+Totals (ALL):   2846.0 2839.9    0.0 H/s
+Highest:  2858.5 H/s
+-----------------------------------------------------------------
+[2018-09-12 15:21:40] : Result accepted by the pool.
+[2018-09-12 15:22:16] : Result accepted by the pool.
+HASHRATE REPORT - CPU
+| ID |    10s |    60s |    15m | ID |    10s |    60s |    15m |
+|  0 |  102.2 |  102.3 |   (na) |  1 |  101.1 |  103.0 |   (na) |
+|  2 |  100.4 |  100.9 |   (na) |  3 |  100.7 |  101.2 |   (na) |
+|  4 |  101.7 |  101.2 |   (na) |  5 |  101.3 |  101.7 |   (na) |
+|  6 |  101.2 |  100.7 |   (na) |  7 |  104.9 |  101.9 |   (na) |
+|  8 |  102.7 |  101.5 |   (na) |  9 |  104.3 |  102.3 |   (na) |
+| 10 |  101.6 |  101.4 |   (na) | 11 |  102.3 |  102.5 |   (na) |
+| 12 |  101.8 |  102.1 |   (na) | 13 |  103.9 |  102.1 |   (na) |
+| 14 |  101.8 |  101.3 |   (na) | 15 |  101.2 |  101.6 |   (na) |
+| 16 |  102.3 |  101.0 |   (na) | 17 |  103.0 |  101.6 |   (na) |
+| 18 |  103.5 |  102.6 |   (na) | 19 |  101.9 |  102.8 |   (na) |
+| 20 |  101.7 |  102.1 |   (na) | 21 |   99.0 |  101.5 |   (na) |
+| 22 |  101.3 |  102.3 |   (na) | 23 |  103.1 |  101.8 |   (na) |
+| 24 |  102.0 |  101.8 |   (na) | 25 |  102.9 |  102.1 |   (na) |
+| 26 |  101.2 |  101.2 |   (na) | 27 |  100.4 |  102.0 |   (na) |
+Totals (CPU):  2855.4 2850.7    0.0 H/s
+-----------------------------------------------------------------
+Totals (ALL):   2855.4 2850.7    0.0 H/s
+Highest:  2858.5 H/s
+-----------------------------------------------------------------
+[2018-09-12 15:23:04] : New block detected.
+[2018-09-12 15:23:18] : New block detected.
+[2018-09-12 15:23:25] : Result accepted by the pool.
+[2018-09-12 15:23:35] : Difficulty changed. Now: 176733.
+[2018-09-12 15:23:35] : New block detected.
+HASHRATE REPORT - CPU
+| ID |    10s |    60s |    15m | ID |    10s |    60s |    15m |
+|  0 |  102.9 |  102.4 |   (na) |  1 |  103.6 |  101.6 |   (na) |
+|  2 |  101.3 |  101.4 |   (na) |  3 |  100.8 |  101.8 |   (na) |
+|  4 |  102.3 |  102.3 |   (na) |  5 |  103.2 |  101.1 |   (na) |
+|  6 |  101.8 |  102.2 |   (na) |  7 |  101.2 |  102.1 |   (na) |
+|  8 |   99.6 |  101.2 |   (na) |  9 |  102.1 |  101.9 |   (na) |
+| 10 |   99.2 |  101.0 |   (na) | 11 |  101.5 |  101.9 |   (na) |
+| 12 |  100.2 |  101.4 |   (na) | 13 |  100.2 |  101.8 |   (na) |
+| 14 |  101.1 |  101.4 |   (na) | 15 |  100.5 |  101.6 |   (na) |
+| 16 |   99.7 |  101.0 |   (na) | 17 |  102.9 |  101.8 |   (na) |
+| 18 |  103.0 |  102.5 |   (na) | 19 |  100.1 |  101.3 |   (na) |
+| 20 |  100.7 |  102.1 |   (na) | 21 |  103.2 |  102.7 |   (na) |
+| 22 |  100.4 |  101.3 |   (na) | 23 |  100.6 |  102.7 |   (na) |
+| 24 |  104.8 |  102.3 |   (na) | 25 |  100.2 |  102.2 |   (na) |
+| 26 |   99.8 |  102.0 |   (na) | 27 |  103.2 |  102.1 |   (na) |
+Totals (CPU):  2840.1 2851.2    0.0 H/s
+-----------------------------------------------------------------
+Totals (ALL):   2840.1 2851.2    0.0 H/s
+Highest:  2858.5 H/s
+-----------------------------------------------------------------
+[2018-09-12 15:24:35] : Difficulty changed. Now: 146791.
+[2018-09-12 15:24:35] : New block detected.
+HASHRATE REPORT - CPU
+| ID |    10s |    60s |    15m | ID |    10s |    60s |    15m |
+|  0 |  103.1 |  101.7 |   (na) |  1 |  102.9 |  101.9 |   (na) |
+|  2 |  100.7 |  101.1 |   (na) |  3 |  100.1 |  100.8 |   (na) |
+|  4 |  101.5 |  102.5 |   (na) |  5 |  100.9 |  101.3 |   (na) |
+|  6 |  101.3 |  101.1 |   (na) |  7 |   99.4 |  101.0 |   (na) |
+|  8 |  101.7 |  101.2 |   (na) |  9 |  102.4 |  102.3 |   (na) |
+| 10 |  101.2 |  101.7 |   (na) | 11 |  104.0 |  101.8 |   (na) |
+| 12 |  100.9 |  101.8 |   (na) | 13 |  100.8 |  101.7 |   (na) |
+| 14 |  102.5 |  101.9 |   (na) | 15 |  103.2 |  102.2 |   (na) |
+| 16 |  100.6 |  100.7 |   (na) | 17 |  101.3 |  101.5 |   (na) |
+| 18 |  101.3 |  102.2 |   (na) | 19 |  101.1 |  102.1 |   (na) |
+| 20 |  103.0 |  101.4 |   (na) | 21 |  102.2 |  101.2 |   (na) |
+| 22 |  101.0 |  102.1 |   (na) | 23 |  101.1 |  101.3 |   (na) |
+| 24 |  101.5 |  101.2 |   (na) | 25 |  101.7 |  101.7 |   (na) |
+| 26 |  101.6 |  101.8 |   (na) | 27 |  101.5 |  101.0 |   (na) |
+Totals (CPU):  2844.5 2844.2    0.0 H/s
+-----------------------------------------------------------------
+Totals (ALL):   2844.5 2844.2    0.0 H/s
+Highest:  2858.5 H/s
+-----------------------------------------------------------------
+-------------------------------------------------------------------
+xmr-stak 2.4.7 2ce3747
+
+Brought to you by fireice_uk and psychocrypt under GPLv3.
+Based on CPU mining code by wolf9466 (heavily optimized by fireice_uk).
+
+Configurable dev donation level is set to 0.0%
+
+You can use following keys to display reports:
+'h' - hashrate
+'r' - results
+'c' - connection
+-------------------------------------------------------------------
+[2018-09-12 15:25:33] : Mining coin: aeon7
+[2018-09-12 15:25:33] : Starting 1x thread, no affinity.
+[2018-09-12 15:25:33] : Starting 1x thread, no affinity.
+[2018-09-12 15:25:33] : Starting 1x thread, no affinity.
+[2018-09-12 15:25:33] : Starting 1x thread, no affinity.
+[2018-09-12 15:25:33] : Starting 1x thread, no affinity.
+[2018-09-12 15:25:33] : Starting 1x thread, no affinity.
+[2018-09-12 15:25:33] : Starting 1x thread, no affinity.
+[2018-09-12 15:25:33] : Starting 1x thread, no affinity.
+[2018-09-12 15:25:33] : Starting 1x thread, no affinity.
+[2018-09-12 15:25:33] : Starting 1x thread, no affinity.
+[2018-09-12 15:25:33] : Starting 1x thread, no affinity.
+[2018-09-12 15:25:33] : Starting 1x thread, no affinity.
+[2018-09-12 15:25:33] : Starting 1x thread, no affinity.
+[2018-09-12 15:25:33] : Starting 1x thread, no affinity.
+[2018-09-12 15:25:33] : Starting 1x thread, no affinity.
+[2018-09-12 15:25:33] : Starting 1x thread, no affinity.
+[2018-09-12 15:25:33] : Starting 1x thread, no affinity.
+[2018-09-12 15:25:33] : Starting 1x thread, no affinity.
+[2018-09-12 15:25:33] : Starting 1x thread, no affinity.
+[2018-09-12 15:25:33] : Starting 1x thread, no affinity.
+[2018-09-12 15:25:33] : Starting 1x thread, no affinity.
+[2018-09-12 15:25:33] : Starting 1x thread, no affinity.
+[2018-09-12 15:25:33] : Starting 1x thread, no affinity.
+[2018-09-12 15:25:33] : Starting 1x thread, no affinity.
+[2018-09-12 15:25:33] : Starting 1x thread, no affinity.
+[2018-09-12 15:25:33] : Starting 1x thread, no affinity.
+[2018-09-12 15:25:33] : Starting 1x thread, no affinity.
+[2018-09-12 15:25:33] : Starting 1x thread, no affinity.
+[2018-09-12 15:25:33] : Fast-connecting to pool.aeon.hashvault.pro:5555 pool ...
+[2018-09-12 15:25:33] : Pool pool.aeon.hashvault.pro:5555 connected. Logging in...
+[2018-09-12 15:25:34] : Difficulty changed. Now: 50000.
+[2018-09-12 15:25:34] : Pool logged in.
+[2018-09-12 15:25:35] : Difficulty changed. Now: 90910.
+[2018-09-12 15:25:35] : New block detected.
+[2018-09-12 15:25:40] : Result accepted by the pool.
+[2018-09-12 15:25:49] : Result accepted by the pool.
+[2018-09-12 15:26:05] : Result accepted by the pool.
+HASHRATE REPORT - CPU
+| ID |    10s |    60s |    15m | ID |    10s |    60s |    15m |
+|  0 |  102.0 |   (na) |   (na) |  1 |  101.3 |   (na) |   (na) |
+|  2 |  102.2 |   (na) |   (na) |  3 |  105.0 |   (na) |   (na) |
+|  4 |  100.6 |   (na) |   (na) |  5 |  101.7 |   (na) |   (na) |
+|  6 |   99.7 |   (na) |   (na) |  7 |  102.7 |   (na) |   (na) |
+|  8 |  101.9 |   (na) |   (na) |  9 |  100.5 |   (na) |   (na) |
+| 10 |  101.8 |   (na) |   (na) | 11 |  102.6 |   (na) |   (na) |
+| 12 |  101.2 |   (na) |   (na) | 13 |  103.2 |   (na) |   (na) |
+| 14 |   99.5 |   (na) |   (na) | 15 |  101.6 |   (na) |   (na) |
+| 16 |   99.4 |   (na) |   (na) | 17 |  102.2 |   (na) |   (na) |
+| 18 |  100.3 |   (na) |   (na) | 19 |  101.0 |   (na) |   (na) |
+| 20 |   99.8 |   (na) |   (na) | 21 |   99.5 |   (na) |   (na) |
+| 22 |  103.5 |   (na) |   (na) | 23 |  100.9 |   (na) |   (na) |
+| 24 |  102.0 |   (na) |   (na) | 25 |  101.9 |   (na) |   (na) |
+| 26 |  104.9 |   (na) |   (na) | 27 |   99.6 |   (na) |   (na) |
+Totals (CPU):  2842.4    0.0    0.0 H/s
+-----------------------------------------------------------------
+Totals (ALL):   2842.4    0.0    0.0 H/s
+Highest:  2845.3 H/s
+-----------------------------------------------------------------
+[2018-09-12 15:26:35] : Difficulty changed. Now: 134100.
+[2018-09-12 15:26:35] : New block detected.
+HASHRATE REPORT - CPU
+| ID |    10s |    60s |    15m | ID |    10s |    60s |    15m |
+|  0 |  104.6 |  101.9 |   (na) |  1 |  101.9 |  102.2 |   (na) |
+|  2 |   99.7 |  101.8 |   (na) |  3 |  102.1 |  101.5 |   (na) |
+|  4 |   99.4 |  101.2 |   (na) |  5 |  102.3 |  101.6 |   (na) |
+|  6 |  102.6 |  103.3 |   (na) |  7 |  102.9 |  101.2 |   (na) |
+|  8 |  104.1 |  101.4 |   (na) |  9 |  101.0 |  100.1 |   (na) |
+| 10 |  102.3 |  102.8 |   (na) | 11 |  101.1 |  102.3 |   (na) |
+| 12 |  100.7 |  101.5 |   (na) | 13 |  102.3 |  101.6 |   (na) |
+| 14 |  101.5 |  101.2 |   (na) | 15 |  101.2 |  102.1 |   (na) |
+| 16 |  102.0 |  100.0 |   (na) | 17 |  101.7 |  102.1 |   (na) |
+| 18 |   99.7 |  100.4 |   (na) | 19 |  101.7 |  101.2 |   (na) |
+| 20 |  101.9 |  100.5 |   (na) | 21 |  100.3 |  100.1 |   (na) |
+| 22 |  101.7 |  102.2 |   (na) | 23 |  100.1 |  101.1 |   (na) |
+| 24 |  100.6 |  101.9 |   (na) | 25 |  100.0 |  101.1 |   (na) |
+| 26 |  100.8 |  101.6 |   (na) | 27 |  100.5 |  100.3 |   (na) |
+Totals (CPU):  2840.8 2840.2    0.0 H/s
+-----------------------------------------------------------------
+Totals (ALL):   2840.8 2840.2    0.0 H/s
+Highest:  2846.8 H/s
+-----------------------------------------------------------------
+[2018-09-12 15:27:34] : Result accepted by the pool.
+[2018-09-12 15:27:35] : Difficulty changed. Now: 100861.
+[2018-09-12 15:27:35] : New block detected.
+HASHRATE REPORT - CPU
+| ID |    10s |    60s |    15m | ID |    10s |    60s |    15m |
+|  0 |   99.9 |  101.8 |   (na) |  1 |  103.1 |  101.5 |   (na) |
+|  2 |  101.0 |  102.0 |   (na) |  3 |  102.6 |  102.5 |   (na) |
+|  4 |  105.1 |  103.2 |   (na) |  5 |  103.1 |  102.3 |   (na) |
+|  6 |  103.3 |  101.6 |   (na) |  7 |  101.8 |  102.1 |   (na) |
+|  8 |   98.5 |  100.0 |   (na) |  9 |  101.8 |  101.1 |   (na) |
+| 10 |  101.7 |  101.3 |   (na) | 11 |  102.3 |  101.6 |   (na) |
+| 12 |  101.0 |   99.9 |   (na) | 13 |  102.4 |  102.5 |   (na) |
+| 14 |   98.5 |  100.7 |   (na) | 15 |  101.9 |  102.3 |   (na) |
+| 16 |  102.0 |  100.5 |   (na) | 17 |  101.0 |  101.0 |   (na) |
+| 18 |  101.2 |  100.6 |   (na) | 19 |  101.7 |  101.3 |   (na) |
+| 20 |  103.0 |  101.2 |   (na) | 21 |  101.7 |  100.4 |   (na) |
+| 22 |  103.4 |  101.1 |   (na) | 23 |  101.5 |  101.1 |   (na) |
+| 24 |  101.8 |  101.8 |   (na) | 25 |  102.3 |  102.3 |   (na) |
+| 26 |  101.3 |  102.1 |   (na) | 27 |   99.6 |  100.1 |   (na) |
+Totals (CPU):  2848.5 2839.9    0.0 H/s
+-----------------------------------------------------------------
+Totals (ALL):   2848.5 2839.9    0.0 H/s
+Highest:  2852.0 H/s
+-----------------------------------------------------------------
+[2018-09-12 15:28:35] : Difficulty changed. Now: 67410.
+[2018-09-12 15:28:35] : New block detected.
+[2018-09-12 15:28:37] : Result accepted by the pool.
+[2018-09-12 15:28:51] : Result accepted by the pool.
+[2018-09-12 15:28:54] : Result accepted by the pool.
+[2018-09-12 15:29:11] : Result accepted by the pool.
+[2018-09-12 15:29:12] : Result accepted by the pool.
+HASHRATE REPORT - CPU
+| ID |    10s |    60s |    15m | ID |    10s |    60s |    15m |
+|  0 |  103.0 |  101.2 |   (na) |  1 |  101.5 |  101.5 |   (na) |
+|  2 |  101.3 |  102.3 |   (na) |  3 |  101.9 |  102.4 |   (na) |
+|  4 |  104.7 |  101.6 |   (na) |  5 |  102.3 |  101.1 |   (na) |
+|  6 |  101.7 |  101.9 |   (na) |  7 |  100.2 |  101.9 |   (na) |
+|  8 |  100.7 |  101.1 |   (na) |  9 |   99.7 |   99.9 |   (na) |
+| 10 |  100.6 |  101.4 |   (na) | 11 |  100.8 |  101.8 |   (na) |
+| 12 |  100.0 |   99.8 |   (na) | 13 |  101.6 |  102.1 |   (na) |
+| 14 |  101.9 |  102.8 |   (na) | 15 |  102.0 |  102.7 |   (na) |
+| 16 |  102.0 |  101.0 |   (na) | 17 |  102.6 |  102.6 |   (na) |
+| 18 |   99.9 |  100.9 |   (na) | 19 |  103.9 |  102.6 |   (na) |
+| 20 |  103.4 |  101.9 |   (na) | 21 |  100.6 |  100.8 |   (na) |
+| 22 |  102.1 |  101.9 |   (na) | 23 |  101.4 |  100.5 |   (na) |
+| 24 |  101.6 |  101.1 |   (na) | 25 |  101.1 |  101.2 |   (na) |
+| 26 |  102.3 |  102.5 |   (na) | 27 |  101.0 |  101.0 |   (na) |
+Totals (CPU):  2845.9 2843.7    0.0 H/s
+-----------------------------------------------------------------
+Totals (ALL):   2845.9 2843.7    0.0 H/s
+Highest:  2852.0 H/s
+-----------------------------------------------------------------
+[2018-09-12 15:29:35] : Difficulty changed. Now: 92581.
+[2018-09-12 15:29:35] : New block detected.
+[2018-09-12 15:30:04] : Result accepted by the pool.
+HASHRATE REPORT - CPU
+| ID |    10s |    60s |    15m | ID |    10s |    60s |    15m |
+|  0 |  101.2 |  101.6 |   (na) |  1 |  100.5 |  101.6 |   (na) |
+|  2 |  102.1 |  101.5 |   (na) |  3 |  101.6 |  102.0 |   (na) |
+|  4 |  102.5 |  101.5 |   (na) |  5 |  101.4 |  101.5 |   (na) |
+|  6 |  101.0 |  101.9 |   (na) |  7 |  101.8 |  102.9 |   (na) |
+|  8 |  102.4 |  101.0 |   (na) |  9 |   99.3 |  100.4 |   (na) |
+| 10 |  102.1 |  101.6 |   (na) | 11 |  102.7 |  102.1 |   (na) |
+| 12 |  100.5 |  100.7 |   (na) | 13 |  101.1 |  101.9 |   (na) |
+| 14 |  101.5 |  101.9 |   (na) | 15 |  102.0 |  101.8 |   (na) |
+| 16 |  102.5 |  101.9 |   (na) | 17 |  100.0 |  101.5 |   (na) |
+| 18 |  100.3 |  100.9 |   (na) | 19 |  102.1 |  101.7 |   (na) |
+| 20 |  100.9 |  102.0 |   (na) | 21 |  100.8 |  100.7 |   (na) |
+| 22 |  103.2 |  102.1 |   (na) | 23 |  101.3 |  101.7 |   (na) |
+| 24 |  101.9 |  102.7 |   (na) | 25 |  102.9 |  101.5 |   (na) |
+| 26 |  100.1 |  101.5 |   (na) | 27 |  100.1 |  101.3 |   (na) |
+Totals (CPU):  2839.6 2845.2    0.0 H/s
+-----------------------------------------------------------------
+Totals (ALL):   2839.6 2845.2    0.0 H/s
+Highest:  2853.6 H/s
+-----------------------------------------------------------------
+[2018-09-12 15:30:35] : Difficulty changed. Now: 83340.
+[2018-09-12 15:30:35] : New block detected.
+[2018-09-12 15:31:26] : Result accepted by the pool.
+[2018-09-12 15:31:29] : Result accepted by the pool.
+HASHRATE REPORT - CPU
+| ID |    10s |    60s |    15m | ID |    10s |    60s |    15m |
+|  0 |   98.3 |  101.5 |   (na) |  1 |  103.7 |  101.7 |   (na) |
+|  2 |  103.4 |  103.3 |   (na) |  3 |  103.0 |  100.5 |   (na) |
+|  4 |  102.6 |  102.0 |   (na) |  5 |  102.1 |  102.2 |   (na) |
+|  6 |  105.0 |  102.5 |   (na) |  7 |  101.4 |  101.8 |   (na) |
+|  8 |  100.7 |  101.3 |   (na) |  9 |  100.2 |  100.0 |   (na) |
+| 10 |  101.3 |  101.0 |   (na) | 11 |  102.5 |  101.3 |   (na) |
+| 12 |  101.2 |  101.6 |   (na) | 13 |  102.8 |  100.9 |   (na) |
+| 14 |   98.3 |  101.0 |   (na) | 15 |  101.1 |  101.5 |   (na) |
+| 16 |  101.2 |  100.1 |   (na) | 17 |  101.5 |  101.6 |   (na) |
+| 18 |  102.8 |  101.3 |   (na) | 19 |  101.5 |  101.5 |   (na) |
+| 20 |  101.2 |  102.3 |   (na) | 21 |  100.9 |   99.8 |   (na) |
+| 22 |  100.4 |  101.2 |   (na) | 23 |  102.0 |  101.3 |   (na) |
+| 24 |  100.9 |  101.4 |   (na) | 25 |  101.3 |  101.4 |   (na) |
+| 26 |  101.6 |  101.0 |   (na) | 27 |  101.3 |   99.7 |   (na) |
+Totals (CPU):  2844.2 2836.7    0.0 H/s
+-----------------------------------------------------------------
+Totals (ALL):   2844.2 2836.7    0.0 H/s
+Highest:  2853.6 H/s
+-----------------------------------------------------------------
+[2018-09-12 15:31:40] : Result accepted by the pool.
+[2018-09-12 15:32:19] : Result accepted by the pool.
+[2018-09-12 15:32:28] : Result accepted by the pool.
+HASHRATE REPORT - CPU
+| ID |    10s |    60s |    15m | ID |    10s |    60s |    15m |
+|  0 |  103.6 |  102.3 |   (na) |  1 |  102.3 |  102.0 |   (na) |
+|  2 |  106.2 |  103.0 |   (na) |  3 |  101.1 |  102.8 |   (na) |
+|  4 |   99.9 |  101.9 |   (na) |  5 |  101.9 |  101.9 |   (na) |
+|  6 |  101.8 |  101.8 |   (na) |  7 |  100.0 |  100.8 |   (na) |
+|  8 |   99.3 |  101.0 |   (na) |  9 |  101.8 |  100.9 |   (na) |
+| 10 |  102.2 |  101.2 |   (na) | 11 |  103.0 |  101.9 |   (na) |
+| 12 |  100.1 |  101.2 |   (na) | 13 |  102.9 |  101.1 |   (na) |
+| 14 |  101.5 |  102.2 |   (na) | 15 |  101.0 |  101.1 |   (na) |
+| 16 |  100.5 |  101.1 |   (na) | 17 |  101.6 |  101.5 |   (na) |
+| 18 |  101.4 |  100.9 |   (na) | 19 |  101.4 |  101.8 |   (na) |
+| 20 |  103.4 |  101.4 |   (na) | 21 |  101.4 |  101.2 |   (na) |
+| 22 |  102.5 |  101.2 |   (na) | 23 |  102.0 |  100.6 |   (na) |
+| 24 |  101.5 |  101.5 |   (na) | 25 |  101.9 |  102.1 |   (na) |
+| 26 |  101.8 |  101.5 |   (na) | 27 |   99.9 |  100.3 |   (na) |
+Totals (CPU):  2847.9 2842.2    0.0 H/s
+-----------------------------------------------------------------
+Totals (ALL):   2847.9 2842.2    0.0 H/s
+Highest:  2853.6 H/s
+-----------------------------------------------------------------
+[2018-09-12 15:32:35] : Result accepted by the pool.
+[2018-09-12 15:32:35] : Result accepted by the pool.
+[2018-09-12 15:32:36] : Difficulty changed. Now: 101160.
+[2018-09-12 15:32:36] : New block detected.
+HASHRATE REPORT - CPU
+| ID |    10s |    60s |    15m | ID |    10s |    60s |    15m |
+|  0 |  101.0 |  101.2 |   (na) |  1 |  101.2 |  101.3 |   (na) |
+|  2 |  100.7 |  102.7 |   (na) |  3 |  105.0 |  103.0 |   (na) |
+|  4 |   99.3 |  101.1 |   (na) |  5 |  101.9 |  102.3 |   (na) |
+|  6 |  102.0 |  101.7 |   (na) |  7 |  102.3 |  102.4 |   (na) |
+|  8 |  100.3 |  100.3 |   (na) |  9 |  100.1 |  100.3 |   (na) |
+| 10 |  102.4 |  102.0 |   (na) | 11 |  103.3 |  101.5 |   (na) |
+| 12 |  102.7 |  100.8 |   (na) | 13 |  100.7 |  102.7 |   (na) |
+| 14 |  100.2 |  101.2 |   (na) | 15 |  102.7 |  102.0 |   (na) |
+| 16 |  100.9 |  101.4 |   (na) | 17 |  103.2 |  102.6 |   (na) |
+| 18 |  101.3 |  102.0 |   (na) | 19 |  101.8 |  102.7 |   (na) |
+| 20 |  102.4 |  101.4 |   (na) | 21 |  100.9 |  101.1 |   (na) |
+| 22 |  102.6 |  102.3 |   (na) | 23 |  101.2 |  100.8 |   (na) |
+| 24 |  102.8 |  101.9 |   (na) | 25 |  104.5 |  102.4 |   (na) |
+| 26 |  101.5 |  102.6 |   (na) | 27 |  100.2 |  100.2 |   (na) |
+Totals (CPU):  2849.1 2848.0    0.0 H/s
+-----------------------------------------------------------------
+Totals (ALL):   2849.1 2848.0    0.0 H/s
+Highest:  2853.6 H/s
+-----------------------------------------------------------------
+[2018-09-12 15:33:35] : Difficulty changed. Now: 88530.
+[2018-09-12 15:33:35] : New block detected.
+[2018-09-12 15:34:02] : New block detected.
+[2018-09-12 15:34:30] : Result accepted by the pool.
+HASHRATE REPORT - CPU
+| ID |    10s |    60s |    15m | ID |    10s |    60s |    15m |
+|  0 |  100.4 |  101.7 |   (na) |  1 |  102.8 |  101.6 |   (na) |
+|  2 |  101.7 |  102.5 |   (na) |  3 |  101.9 |  101.1 |   (na) |
+|  4 |  101.8 |  102.3 |   (na) |  5 |  103.0 |  102.1 |   (na) |
+|  6 |  102.5 |  102.9 |   (na) |  7 |  100.3 |  101.4 |   (na) |
+|  8 |  100.2 |  101.0 |   (na) |  9 |   99.9 |  100.1 |   (na) |
+| 10 |  102.1 |  101.7 |   (na) | 11 |  101.0 |  101.4 |   (na) |
+| 12 |  101.9 |  100.6 |   (na) | 13 |  103.0 |  101.6 |   (na) |
+| 14 |  102.5 |  103.5 |   (na) | 15 |  103.0 |  101.8 |   (na) |
+| 16 |  100.9 |  100.7 |   (na) | 17 |  101.8 |  101.6 |   (na) |
+| 18 |   99.7 |  100.2 |   (na) | 19 |  101.6 |  102.1 |   (na) |
+| 20 |  103.7 |  103.1 |   (na) | 21 |  103.9 |  101.3 |   (na) |
+| 22 |  101.5 |  101.4 |   (na) | 23 |  102.4 |  101.7 |   (na) |
+| 24 |  101.4 |  101.6 |   (na) | 25 |  100.6 |  101.5 |   (na) |
+| 26 |  103.8 |  102.4 |   (na) | 27 |  101.1 |  100.7 |   (na) |
+Totals (CPU):  2850.5 2845.4    0.0 H/s
+-----------------------------------------------------------------
+Totals (ALL):   2850.5 2845.4    0.0 H/s
+Highest:  2853.6 H/s
+-----------------------------------------------------------------
+[2018-09-12 15:34:35] : Difficulty changed. Now: 83641.
+[2018-09-12 15:34:35] : New block detected.
+[2018-09-12 15:34:52] : Result accepted by the pool.
+[2018-09-12 15:35:31] : Result accepted by the pool.
+HASHRATE REPORT - CPU
+| ID |    10s |    60s |    15m | ID |    10s |    60s |    15m |
+|  0 |  101.2 |  101.0 |   (na) |  1 |  102.9 |  102.3 |   (na) |
+|  2 |  100.5 |  101.2 |   (na) |  3 |  100.8 |  101.6 |   (na) |
+|  4 |  104.1 |  102.1 |   (na) |  5 |   99.6 |  101.6 |   (na) |
+|  6 |  102.5 |  102.2 |   (na) |  7 |  101.7 |  102.3 |   (na) |
+|  8 |  102.5 |  102.0 |   (na) |  9 |  101.0 |  100.8 |   (na) |
+| 10 |  102.9 |  101.8 |   (na) | 11 |  103.2 |  102.0 |   (na) |
+| 12 |   99.9 |  101.0 |   (na) | 13 |  101.2 |  102.1 |   (na) |
+| 14 |  102.8 |  102.6 |   (na) | 15 |  100.4 |  102.2 |   (na) |
+| 16 |  102.0 |  101.6 |   (na) | 17 |  100.8 |  101.7 |   (na) |
+| 18 |   99.8 |  100.6 |   (na) | 19 |  102.4 |  102.5 |   (na) |
+| 20 |  101.4 |  101.0 |   (na) | 21 |  101.2 |  100.5 |   (na) |
+| 22 |  100.8 |  100.9 |   (na) | 23 |  100.3 |  101.3 |   (na) |
+| 24 |  101.4 |  101.3 |   (na) | 25 |  102.4 |  101.4 |   (na) |
+| 26 |  101.2 |  101.8 |   (na) | 27 |  102.6 |  101.1 |   (na) |
+Totals (CPU):  2843.5 2844.4    0.0 H/s
+-----------------------------------------------------------------
+Totals (ALL):   2843.5 2844.4    0.0 H/s
+Highest:  2853.6 H/s
+-----------------------------------------------------------------
+[2018-09-12 15:35:40] : Result accepted by the pool.
+[2018-09-12 15:36:00] : Result accepted by the pool.
+HASHRATE REPORT - CPU
+| ID |    10s |    60s |    15m | ID |    10s |    60s |    15m |
+|  0 |  101.8 |  102.2 |   (na) |  1 |  104.4 |  102.7 |   (na) |
+|  2 |  101.0 |  101.1 |   (na) |  3 |  102.0 |  101.7 |   (na) |
+|  4 |  101.0 |  102.0 |   (na) |  5 |  102.3 |  101.3 |   (na) |
+|  6 |  102.3 |  101.1 |   (na) |  7 |  101.5 |  101.2 |   (na) |
+|  8 |  105.3 |  102.4 |   (na) |  9 |   99.9 |  100.3 |   (na) |
+| 10 |  103.0 |  101.6 |   (na) | 11 |  101.1 |  101.7 |   (na) |
+| 12 |  101.3 |  101.2 |   (na) | 13 |  101.7 |  101.7 |   (na) |
+| 14 |  100.6 |  103.0 |   (na) | 15 |  102.0 |  101.3 |   (na) |
+| 16 |  100.7 |  101.3 |   (na) | 17 |  101.6 |  101.3 |   (na) |
+| 18 |   99.7 |   99.5 |   (na) | 19 |  102.5 |  102.0 |   (na) |
+| 20 |  104.8 |  101.7 |   (na) | 21 |  101.6 |   99.9 |   (na) |
+| 22 |  103.4 |  101.3 |   (na) | 23 |  102.5 |  101.0 |   (na) |
+| 24 |  101.4 |  101.4 |   (na) | 25 |  101.4 |  100.8 |   (na) |
+| 26 |  102.0 |  101.7 |   (na) | 27 |  100.0 |  100.4 |   (na) |
+Totals (CPU):  2852.7 2838.9    0.0 H/s
+-----------------------------------------------------------------
+Totals (ALL):   2852.7 2838.9    0.0 H/s
+Highest:  2854.5 H/s
+-----------------------------------------------------------------
+[2018-09-12 15:36:35] : Difficulty changed. Now: 83491.
+[2018-09-12 15:36:35] : New block detected.
+[2018-09-12 15:37:27] : Result accepted by the pool.
+HASHRATE REPORT - CPU
+| ID |    10s |    60s |    15m | ID |    10s |    60s |    15m |
+|  0 |   99.3 |  101.3 |   (na) |  1 |  103.5 |  102.4 |   (na) |
+|  2 |   99.2 |  100.3 |   (na) |  3 |   99.1 |  102.1 |   (na) |
+|  4 |  100.7 |  100.9 |   (na) |  5 |  102.4 |  103.2 |   (na) |
+|  6 |  102.1 |  102.4 |   (na) |  7 |  104.0 |  102.5 |   (na) |
+|  8 |  100.1 |  101.1 |   (na) |  9 |   99.8 |  100.7 |   (na) |
+| 10 |  100.1 |  102.4 |   (na) | 11 |  101.0 |  101.1 |   (na) |
+| 12 |  100.2 |  101.3 |   (na) | 13 |  103.4 |  101.9 |   (na) |
+| 14 |  102.3 |  102.0 |   (na) | 15 |  102.8 |  102.0 |   (na) |
+| 16 |  101.7 |  101.6 |   (na) | 17 |  101.0 |  101.5 |   (na) |
+| 18 |   99.9 |  100.0 |   (na) | 19 |  102.9 |  103.1 |   (na) |
+| 20 |  101.7 |  101.6 |   (na) | 21 |  101.8 |  102.0 |   (na) |
+| 22 |  102.0 |  101.6 |   (na) | 23 |  101.6 |  101.3 |   (na) |
+| 24 |  101.6 |  101.9 |   (na) | 25 |  103.3 |  102.1 |   (na) |
+| 26 |  100.0 |  100.9 |   (na) | 27 |   99.9 |  100.5 |   (na) |
+Totals (CPU):  2837.6 2845.6    0.0 H/s
+-----------------------------------------------------------------
+Totals (ALL):   2837.6 2845.6    0.0 H/s
+Highest:  2854.5 H/s
+-----------------------------------------------------------------
+[2018-09-12 15:37:36] : Difficulty changed. Now: 80040.
+[2018-09-12 15:37:36] : New block detected.
+HASHRATE REPORT - CPU
+| ID |    10s |    60s |    15m | ID |    10s |    60s |    15m |
+|  0 |  100.6 |  101.0 |   (na) |  1 |  100.4 |  101.4 |   (na) |
+|  2 |  101.5 |  101.6 |   (na) |  3 |  103.1 |  101.8 |   (na) |
+|  4 |  102.1 |  102.8 |   (na) |  5 |  101.7 |  102.1 |   (na) |
+|  6 |  102.4 |  103.1 |   (na) |  7 |  101.6 |  101.5 |   (na) |
+|  8 |  102.0 |  101.3 |   (na) |  9 |  100.3 |  100.1 |   (na) |
+| 10 |  101.5 |  102.1 |   (na) | 11 |  101.8 |  101.3 |   (na) |
+| 12 |   99.6 |  100.4 |   (na) | 13 |  101.8 |  101.5 |   (na) |
+| 14 |  102.1 |  101.9 |   (na) | 15 |  103.2 |  102.3 |   (na) |
+| 16 |  100.7 |  101.5 |   (na) | 17 |  102.7 |  102.5 |   (na) |
+| 18 |  101.5 |  101.5 |   (na) | 19 |  102.0 |  101.6 |   (na) |
+| 20 |  101.8 |  102.2 |   (na) | 21 |  102.2 |  101.3 |   (na) |
+| 22 |  103.8 |  102.4 |   (na) | 23 |  100.4 |  101.0 |   (na) |
+| 24 |  102.1 |  102.4 |   (na) | 25 |  100.8 |  101.6 |   (na) |
+| 26 |  101.8 |  101.2 |   (na) | 27 |  103.4 |  101.0 |   (na) |
+Totals (CPU):  2849.1 2846.5    0.0 H/s
+-----------------------------------------------------------------
+Totals (ALL):   2849.1 2846.5    0.0 H/s
+Highest:  2854.5 H/s
+-----------------------------------------------------------------
+[2018-09-12 15:38:36] : Difficulty changed. Now: 73890.
+[2018-09-12 15:38:36] : New block detected.
+[2018-09-12 15:38:55] : Result accepted by the pool.
+HASHRATE REPORT - CPU
+| ID |    10s |    60s |    15m | ID |    10s |    60s |    15m |
+|  0 |  100.7 |  100.9 |   (na) |  1 |  101.6 |  101.6 |   (na) |
+|  2 |  101.1 |  101.9 |   (na) |  3 |  101.2 |  102.0 |   (na) |
+|  4 |   99.6 |  101.2 |   (na) |  5 |  101.4 |  101.7 |   (na) |
+|  6 |  102.5 |  102.4 |   (na) |  7 |  100.8 |  101.8 |   (na) |
+|  8 |  101.1 |  100.9 |   (na) |  9 |   99.7 |  100.5 |   (na) |
+| 10 |  102.6 |  102.4 |   (na) | 11 |  101.9 |  101.5 |   (na) |
+| 12 |   98.3 |   99.7 |   (na) | 13 |  102.4 |  102.4 |   (na) |
+| 14 |  105.2 |  104.7 |   (na) | 15 |  103.0 |  102.2 |   (na) |
+| 16 |  101.7 |  101.5 |   (na) | 17 |  100.3 |  101.4 |   (na) |
+| 18 |  101.1 |  100.2 |   (na) | 19 |  102.1 |  102.5 |   (na) |
+| 20 |  104.4 |  102.1 |   (na) | 21 |  101.1 |  100.7 |   (na) |
+| 22 |  101.6 |  102.5 |   (na) | 23 |  101.2 |  101.8 |   (na) |
+| 24 |  101.8 |  102.0 |   (na) | 25 |  105.2 |  103.3 |   (na) |
+| 26 |  101.0 |  101.2 |   (na) | 27 |  100.5 |  100.9 |   (na) |
+Totals (CPU):  2845.2 2847.9    0.0 H/s
+-----------------------------------------------------------------
+Totals (ALL):   2845.2 2847.9    0.0 H/s
+Highest:  2854.5 H/s
+-----------------------------------------------------------------
+[2018-09-12 15:39:36] : Difficulty changed. Now: 71250.
+[2018-09-12 15:39:36] : New block detected.
+[2018-09-12 15:39:49] : Result accepted by the pool.
+[2018-09-12 15:40:20] : Result accepted by the pool.
+[2018-09-12 15:40:20] : Result accepted by the pool.
+[2018-09-12 15:40:21] : Result accepted by the pool.
+[2018-09-12 15:40:30] : Result accepted by the pool.
+HASHRATE REPORT - CPU
+| ID |    10s |    60s |    15m | ID |    10s |    60s |    15m |
+|  0 |   99.2 |  101.0 |   (na) |  1 |  102.3 |  102.5 |   (na) |
+|  2 |   99.2 |  100.7 |   (na) |  3 |  101.6 |  100.2 |   (na) |
+|  4 |   99.1 |  100.8 |   (na) |  5 |  104.2 |  101.9 |   (na) |
+|  6 |  103.1 |  103.0 |   (na) |  7 |  101.2 |  102.0 |   (na) |
+|  8 |  102.1 |  102.0 |   (na) |  9 |  101.3 |  100.4 |   (na) |
+| 10 |  100.3 |  102.0 |   (na) | 11 |  102.0 |  101.6 |   (na) |
+| 12 |   99.9 |  100.4 |   (na) | 13 |  101.6 |  102.1 |   (na) |
+| 14 |   99.1 |  101.4 |   (na) | 15 |  101.5 |  102.4 |   (na) |
+| 16 |   99.9 |  101.3 |   (na) | 17 |  101.2 |  101.9 |   (na) |
+| 18 |  102.6 |  101.4 |   (na) | 19 |  101.9 |  101.9 |   (na) |
+| 20 |  101.6 |  102.6 |   (na) | 21 |  102.9 |  101.1 |   (na) |
+| 22 |  103.2 |  102.2 |   (na) | 23 |  101.4 |  100.9 |   (na) |
+| 24 |  102.2 |  101.7 |   (na) | 25 |  104.7 |  102.9 |   (na) |
+| 26 |  102.2 |  102.1 |   (na) | 27 |  100.7 |  100.3 |   (na) |
+Totals (CPU):  2842.3 2845.0    0.0 H/s
+-----------------------------------------------------------------
+Totals (ALL):   2842.3 2845.0    0.0 H/s
+Highest:  2854.5 H/s
+-----------------------------------------------------------------
+[2018-09-12 15:40:36] : Difficulty changed. Now: 78361.
+[2018-09-12 15:40:36] : New block detected.
+[2018-09-12 15:40:37] : Result accepted by the pool.
